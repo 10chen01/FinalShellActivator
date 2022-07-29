@@ -17,7 +17,7 @@ object FinalShell {
 	fun generateKey(hardwareId: String) {
 		val proKey = transform(61305.toString() + hardwareId + 8552)
 		val pfKey = transform(2356.toString() + hardwareId + 13593)
-		println("请将此行复制到离线激活中：")
+		println("请按照所需版本将对应代码复制到离线激活提示框中：")
 		println("高级版: $proKey")
 		println("专业版: $pfKey")
 	}
