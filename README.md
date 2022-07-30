@@ -3,7 +3,7 @@ A tool to activate FinalShell
 
 # How to use?
 To use this, you should:  
-1. Install Finalshell and IDEA.
+1. Install Finalshell and IDEA from the link in "About" field.
 2. Clone this tool to IDEA.
 3. Build and run this tool.
 4. Open FinalShell, go to "Activate" and type anything in the "Account" field.
