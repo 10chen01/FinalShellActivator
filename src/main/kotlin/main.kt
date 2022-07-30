@@ -24,7 +24,6 @@ object FinalShell {
 
 	@Throws(NoSuchAlgorithmException::class)
 	fun transform(str: String): String {
-//		val md5 = hashMD5(str)
 		return hashMD5(str).substring(8, 24)
 	}
 
