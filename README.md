@@ -1,4 +1,4 @@
-# FinalShellActivator
+# FinalShell-keygen
 A tool to activate FinalShell
 
 # How to use?
