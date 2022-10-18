@@ -11,4 +11,4 @@ To use this, you should:
 6. Confirm the version you'll use, and copy current activate code to FinalShell.
 7. Click "Activate", and you're done.
 
-# If you have a way to activate FinalShell V3.9.6.2+, Please send a Pull Request to the project! 
+# If you have a way to activate FinalShell V3.9.6.2+, Please send a Pull Request to the project! Thank you!
